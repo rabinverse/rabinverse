@@ -1,24 +1,112 @@
-<h1 align="center">Hi 👋, I'm Rabin Poudel</h1>
-<h3 align="center">An undergraduate Computer Engineering Student</h3>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="30"/> , I'm Rabin Poudel
+</h1>
 
+###
 
+<div align="center">
+</div>
 
-<img src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" align="center" alt="coding" width="400px">
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@poudelrabin5824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@poudelrabin5824" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rabin-poudel-770842277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabin-poudel-770842277/" height="30" width="40" /></a>
-<a href="https://fb.com/rabin.poudel.58958343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rabin.poudel.58958343" height="30" width="40" /></a>
-</p>
+<br clear="both">
 
+<h3 align="center">
+  NLP | Deep Learning | Engineering | Math 
+</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabinverse" alt="rabinverse" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabinverse&show_icons=true&locale=en&layout=compact" alt="rabinverse" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabinverse&show_icons=true&locale=en" alt="rabinverse" /></p>
+<br clear="both">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabinverse&" alt="rabinverse" /></p>
+<div align="left"style="width:fit-content;">
 
+```python
+while curious:
+    list(map(lambda x: build(x).experiment().learn(), ideas))
+
+    if idea.is_valuable():
+        ship(idea)
+
+```
+
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="190" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif"  />
+</div>
+
+###
+
+<br clear="both">
+<div style="font-size: 18px; height: 40px;"> How I Build:</div>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/68f1045a37643200af0d0aed_Frame%2099910.svg" height="30" alt="LangChain Logo"  />
+   <img width="12" />
+  <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" height="30" alt="mlflow logo"  />
+  <img width="12" />
+  <img src="https://dagshub.com/wp-content/uploads/2024/04/dagshab.svg" height="30" alt="DahsHub logo"  />
+  <img width="12" />
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="30" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://streamlit.io/favicon.svg" height="30" alt="streamlit-logo " />
+  <img width="12" />
+  <img src="https://dvc.org/wp-content/uploads/2025/10/dvc-logo.svg" height="30" alt="DVC logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+</div>
+
+###
+
+<div style="font-size: 18px; height: 40px;"> Connect with me:</div>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/rabin-poudel/" target="_blank">
+    <img src="https://www.svgrepo.com/show/37273/linkedin.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/PoudelRabin5824" target="_blank" >
+    <img src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" width="47" height="35" alt="twitter logo" />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+###
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=rabinverse&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rabinverse&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rabinverse&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
