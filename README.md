@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  NLP Engineer | Deep Learning Enthusiast | Building AI Solutions
+  NLP | ML/DL | Engineering 
 </h3>
 
 <br clear="both">
@@ -18,7 +18,7 @@
 
 ---
 
-<details open>
+
 
 ```python
 while curious:
@@ -28,7 +28,6 @@ while curious:
         ship(idea)
 ```
 
-</details>
 
 
 
@@ -47,8 +46,6 @@ while curious:
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"/>
 </div>
-
-<br clear="both">
 
 **ML/DL , Data Science , MLOps & Deployment:**
 
@@ -73,10 +70,8 @@ while curious:
   <img src="https://streamlit.io/favicon.svg" height="40" alt="streamlit logo"/>
 </div>
 
-#####
 
 **Others:**
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
   <img width="12"/>
@@ -97,14 +92,6 @@ while curious:
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=rabinverse&theme=dark&hide_border=false" alt="GitHub Streak"/>
-</div>
-
----
-
-### Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 </div>
 
 ---
