@@ -14,7 +14,7 @@
   <a href="https://x.com/PoudelRabin5824" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=rabinverse&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=rabinverse&style=pixel" alt="Profile Views"/>
 </p>
 
 ---
